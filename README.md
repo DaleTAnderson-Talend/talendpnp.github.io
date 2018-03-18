@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Link](https://github.com/iburtally-talend/india/tree/master/reference-architecture/products/readme.md)
+
 You can use the [editor on GitHub](https://github.com/talendpnp/talendpnp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
