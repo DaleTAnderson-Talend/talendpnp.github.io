@@ -96,10 +96,9 @@ footer a:hover{
 .homepage-picture {
   background-image: url("../../images/talend-cloud-2000x1572.png");
   background-repeat: no-repeat;
-  background-position: center;
-  background-size:100%;
   padding-top: 135px;
   padding-bottom: 135px;
+  background-size: cover;
 }
 
 .homepage-title{
@@ -107,6 +106,7 @@ footer a:hover{
   color: #ffffff;
   font-size: 3.8rem;
   font-weight: bold;
+  text-align: center;
 }
 .homepage-subtitle{
   font-family: 'Rubik', sans-serif;
@@ -116,7 +116,9 @@ footer a:hover{
 }
 
 
-
+.hompage-main-btn{
+  text-align: center;
+}
 .hompage-main-btn a.btn{
   border-radius: 100px;
 }
